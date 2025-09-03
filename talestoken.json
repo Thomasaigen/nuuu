@@ -1,0 +1,19 @@
+{
+  "name": "TASM",
+  "symbol": "TASM",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/tales.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/tales.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.talesofmeteora.com/",
+    "twitter": "https://x.com/talesofmeteora",
+    "telegram": ""
+  }
+}
