@@ -1,0 +1,19 @@
+{
+  "name": "America",
+  "symbol": "America",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/usa.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/usa.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://americausa.fun/",
+    "twitter": "https://x.com/AmericaUSAFun",
+    "telegram": ""
+  }
+}
