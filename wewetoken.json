@@ -1,0 +1,19 @@
+{
+  "name": "WEWE",
+  "symbol": "WEWE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/wewe.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/wewe.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.mywewe.io/",
+    "twitter": "https://x.com/myweweio",
+    "telegram": ""
+  }
+}
