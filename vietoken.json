@@ -1,0 +1,19 @@
+{
+  "name": "Vie",
+  "symbol": "VIE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/vie.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/vie.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://vie.dev/",
+    "twitter": "https://x.com/viedotdev",
+    "telegram": ""
+  }
+}
