@@ -1,0 +1,19 @@
+{
+  "name": "major league bunt",
+  "symbol": "mlb",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/mlb.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/mlb.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/MajorLeagueBunt",
+    "telegram": ""
+  }
+}
