@@ -1,0 +1,19 @@
+{
+  "name": "SolJack",
+  "symbol": "SJ",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/SJ.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/SJ.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://soljack.fun/",
+    "twitter": "https://x.com/snowdotfun",
+    "telegram": ""
+  }
+}
