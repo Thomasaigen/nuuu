@@ -1,0 +1,19 @@
+{
+  "name": "Snowball",
+  "symbol": "SNOW",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/snow.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/snow.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "",
+    "twitter": "https://x.com/snowdotfun",
+    "telegram": ""
+  }
+}
