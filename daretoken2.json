@@ -1,0 +1,19 @@
+{
+  "name": "DARE",
+  "symbol": "DARE",
+  "description": "",
+  "image": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/dare.png",
+  "external_url": "",
+  "attributes": [],
+  "properties": {
+    "category": "image",
+    "files": [
+      { "uri": "https://raw.githubusercontent.com/Thomasaigen/nuuu/main/dare.png", "type": "image/png" }
+    ]
+  },
+  "extensions": {
+    "website": "https://www.dare.market/",
+    "twitter": "https://x.com/dare_market",
+    "telegram": ""
+  }
+}
